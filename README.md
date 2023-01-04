@@ -1,2 +1,2 @@
 # PracticeEmailForm
-Practice creating an email form
+Practice creating an email form on Thinkful
